@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Dibya Jyoti Sarangi, Marine Battery R&amp;D Engineer" width="100%">
+  <img src="assets/profile-banner.svg" alt="Dibya Jyoti Sarangi, Senior Battery Analytics Engineer" width="100%">
 </p>
 
 <p align="center">
@@ -7,16 +7,16 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/dibya-jyoti-sarangi37"><strong>Connect on LinkedIn ↗</strong></a> ·
   <a href="https://dsarangi7.github.io/Fleet-Battery-Intelligence-Platform/">Fleet dashboard ↗</a> ·
-  <a href="https://github.com/dsarangi7/dibya-portfolio">Engineering portfolio ↗</a> ·
-  <a href="https://www.linkedin.com/in/dibya-jyoti-sarangi37">LinkedIn ↗</a>
+  <a href="https://github.com/dsarangi7/dibya-portfolio">Engineering portfolio ↗</a>
 </p>
 
 ## From optical instruments to battery fleets
 
 I started in physics and applied optics, earning the **Dr. Shankar Dayal Sharma Gold Medal at IIT Delhi**. At **ICFO Barcelona**, I worked on biomedical optical diagnostics as a **Marie Skłodowska-Curie FLIGHT Fellow**. That work taught me to ask how a signal was measured, what can distort it, and how to validate the inference. [Read the photonics paper](https://doi.org/10.1364/BOE.538141).
 
-I bring those same questions to **marine battery R&D**. When a cell behaves differently, I want to know whether it’s a change in battery health or a result of load, temperature, or how the data was collected. I build tools that help engineers make that call from operational telemetry.
+I brought those same questions to marine battery R&D. I started as an **R&D Engineer** and was promoted to **Senior Battery Analytics Engineer**. When a cell behaves differently, I want to know whether it’s a change in battery health or a result of load, temperature, or how the data was collected. I build tools that help engineers make that call from operational telemetry.
 
 ## Explore my work
 
