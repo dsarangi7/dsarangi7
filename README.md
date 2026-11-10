@@ -16,7 +16,7 @@
 
 I started in physics and applied optics, earning the **Dr. Shankar Dayal Sharma Gold Medal at IIT Delhi**. At **ICFO Barcelona**, I worked on biomedical optical diagnostics as a **Marie Skłodowska-Curie FLIGHT Fellow**. That work taught me to ask how a signal was measured, what can distort it, and how to validate the inference. [Read the photonics paper](https://doi.org/10.1364/BOE.538141).
 
-I brought those same questions to marine battery R&D. I started as an **R&D Engineer** and was promoted to **Senior Battery Analytics Engineer**. When a cell behaves differently, I want to know whether it’s a change in battery health or a result of load, temperature, or how the data was collected. I build tools that help engineers make that call from operational telemetry.
+I entered the marine battery industry as a **Sales Engineer**, moved into R&D as an **R&D Engineer**, and was promoted to **Senior Battery Analytics Engineer**. I still ask the same questions about how signals are measured and what can distort them. When a cell behaves differently, I want to know whether it’s a change in battery health or a result of load, temperature, or how the data was collected. I build tools that help engineers make that call from operational telemetry.
 
 ## Explore my work
 
