@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/dibya-jyoti-sarangi37"><strong>Connect on LinkedIn ↗</strong></a> ·
   <a href="https://dsarangi7.github.io/Fleet-Battery-Intelligence-Platform/">Fleet dashboard ↗</a> ·
-  <a href="https://github.com/dsarangi7/dibya-portfolio">Engineering portfolio ↗</a>
+  <a href="https://dibya-portfolio-jet.vercel.app/">Engineering portfolio ↗</a>
 </p>
 
 ## From optical instruments to battery fleets
