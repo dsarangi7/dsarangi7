@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 286" width="1000" height="286" role="img" aria-labelledby="title desc">
+  <title id="title">Dibya Jyoti Sarangi — Marine Battery R&amp;D Engineer</title>
+  <desc id="desc">A dark navy banner with cyan telemetry traces and a battery pack illustration.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#071324"/>
+      <stop offset="1" stop-color="#142e49"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0v32" fill="none" stroke="#86ddf2" stroke-opacity=".13"/>
+    </pattern>
+  </defs>
+  <rect x="1" y="1" width="998" height="284" rx="23" fill="url(#background)" stroke="#285571" stroke-width="2"/>
+  <rect x="2" y="2" width="996" height="282" rx="22" fill="url(#grid)"/>
+  <path d="M55 222h118l18-15 17 20 22-31 19 26h75l17-13 18 13h153" fill="none" stroke="#61dff2" stroke-width="2" opacity=".7"/>
+  <circle cx="512" cy="222" r="4" fill="#6aeafa"/>
+  <g transform="translate(728 86)" stroke="#6aeafa" stroke-width="2">
+    <rect width="174" height="106" rx="16" fill="#112c45"/>
+    <path d="M174 39h12v28h-12" fill="none"/>
+    <rect x="18" y="19" width="33" height="68" rx="6" fill="#1b5774"/>
+    <rect x="61" y="19" width="33" height="68" rx="6" fill="#22708b"/>
+    <rect x="104" y="19" width="33" height="68" rx="6" fill="#2e8da2"/>
+    <path d="M-23 55h-25l-13 14-16-28-17 23h-30" fill="none" opacity=".66"/>
+    <circle cx="-124" cy="64" r="4" fill="#6aeafa"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="55" y="66" fill="#75e9f8" font-size="15" font-weight="700" letter-spacing="3">PHYSICS / BATTERIES / SOFTWARE</text>
+    <text x="53" y="135" fill="#f2f8ff" font-size="52" font-weight="700">Dibya Jyoti Sarangi</text>
+    <text x="55" y="177" fill="#b8d9e9" font-size="25">Marine Battery R&amp;D Engineer</text>
+  </g>
+</svg>
